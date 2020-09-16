@@ -21,7 +21,7 @@ Features:
 
 - npm install
 
-- node Aoi.js
+- node Shard.js
 
 
 Contact:
